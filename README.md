@@ -4,9 +4,11 @@ Taller: 2 Proyecto Bici 2026
 Corte: 1
 
 Lider: Yamil Albeiro Fonseca Sierra
+
 tareas : 1 y 2 y organizaciòn
 
 Integrantes: Carlos Andres Rincon Rincon
+
 tareas : 3,4 y 5
 
 Problema.
